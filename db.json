@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "name": "React",
+      "description": "JS Framework",
+      "status": "todo",
+      "id": 1
+    },
+    {
+      "name": "Redux",
+      "description": "JS Lib",
+      "status": "doing",
+      "id": 2
+    },
+    {
+      "name": "Test ",
+      "description": "Test",
+      "status": "todo",
+      "id": 3
+    },
+    {
+      "name": "Java",
+      "description": "Java",
+      "status": "done",
+      "id": 4
+    },
+    {
+      "name": "Jest",
+      "description": "Test",
+      "status": "testing",
+      "id": 5
+    },
+    {
+      "name": "Javascript",
+      "description": "JS",
+      "status": "doing",
+      "id": 6
+    }
+  ]
+}
